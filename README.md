@@ -25,16 +25,16 @@ BootStrap 템플릿을 이용하여 포트폴리오용 웹페이지 만들기
   - 웹페이지에 추가/삭제하고 싶은 내용에 맞게 수정합니다. 
 
 ## 📌 주요기능
-1. About Me
+1. About Me<br>
 개인 인적사항을 볼 수 있습니다.
 
-2. Skills
+2. Skills<br>
 개인적으로 배운 프로그래밍 언어를 볼 수 있습니다.
 
-3. Archiving
+3. Archiving<br>
 과거 프로젝트에 사용했던 소스코드를 볼 수 있습니다.
 
-4. Project
+4. Project<br>
 과거 프로젝트에 대한 설명을 간단하게 볼 수 있습니다.
 
 #### 1. Runacian's Portfolio
